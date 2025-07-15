@@ -1,6 +1,4 @@
-# Sports Betting Odds Table App output
 
-![App Screenshot](public/screenshot.png)
 
 
 
@@ -41,6 +39,9 @@
    - Navigate to [http://localhost:3000](http://localhost:3000)
    - Start searching for matches!
 
+# Sports Betting Odds Table App Output:
+
+![App Screenshot](public/screenshot.png)
 
 ## 🛠️ Technology Stack
 
@@ -82,23 +83,11 @@ npm run test         # Run tests (if configured)
 - Check the JSON format matches the required structure
 - Verify the file is accessible via `/data.json` URL
 
-**Styling issues?**
-- Make sure Tailwind CSS is properly installed
-- Check that all CSS classes are being applied
-- Verify the build process is working correctly
-
 **Search not working?**
 - Check the data structure matches the expected format
 - Verify team names and IDs are present in the data
 - Check browser console for any JavaScript errors
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-1. Check the troubleshooting section above
-2. Review the code comments for implementation details
-3. Open an issue on GitHub with detailed information
-
----
 
 **Built with ❤️ using Next.js and Tailwind CSS**
