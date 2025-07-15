@@ -1,6 +1,7 @@
-# 🏈 Sports Betting Odds Table App
+# Sports Betting Odds Table App output
 
-A modern, dynamic sports betting odds comparison application built with Next.js and Tailwind CSS. This app allows users to search for football matches and view real-time odds from multiple bookmakers in a professional, dark-themed interface.
+![App Screenshot](public/screenshot.png)
+
 
 
 
